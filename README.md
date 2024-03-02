@@ -7,8 +7,8 @@
 
 - 📫 How to reach me **jayendravardhan@gmail.com**
 
-<h3 align="left">Connect with me:</h3>
 <p align="left">
+<h3 >Connect with me:</h3>
 <a href="https://twitter.com/vardhanjayendra" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="vardhanjayendra" height="30" width="40" /></a>
 <a href="https://linkedin.com/in/jayendra-vardhan-singh-8a3b531b6" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="jayendra-vardhan-singh-8a3b531b6" height="30" width="40" /></a>
 </p>
