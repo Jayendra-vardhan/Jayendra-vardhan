@@ -1,13 +1,10 @@
 # Jayendra Vardhan Singh
-
 (Adaptable, Collaborative learner, Logically oriented)
 
-- **Phone:** +91-7088345282
+
 - **Email:** jayendravardhan@gmail.com
 - **LinkedIn:** [Jayendra Vardhan Singh](https://www.linkedin.com/in/jayendra-vardhan-singh-8a3b531b6)
 - **GitHub:** [jayendra-587](https://github.com/jayendra-587)
-
-![Jayendra Vardhan Singh](insert_image_url_here)
 
 ## Career Objective
 
