@@ -2,15 +2,18 @@
 <h3 align="center">A passionate Software and web developer from India</h3>
 
 ->🌱 I’m currently learning **JavaScript**
+
 -> 💬 Ask me about **C/C++ and JavaScript**
+
 -> 📫 Email to reach me **jayendravardhan@gmail.com**
 
 
-<p align="left">
-  <h3>Connect with me:</h3>
-  <a href="https://twitter.com/vardhanjayendra" target="blank"><img style="display:inline-block;" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="vardhanjayendra" height="30" width="40" /></a>
-  <a href="https://linkedin.com/in/jayendra-vardhan-singh-8a3b531b6" target="blank"><img style="display:inline-block;" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="jayendra-vardhan-singh-8a3b531b6" height="30" width="40" /></a>
+<p style="line-height: 10px;">
+    <h3 style="display: inline;">Connect with me:</h3>
+    <a href="https://twitter.com/vardhanjayendra" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="vardhanjayendra" height="30" width="40" style="margin-right: 10px;" /></a>
+    <a href="https://linkedin.com/in/jayendra-vardhan-singh-8a3b531b6" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="jayendra-vardhan-singh-8a3b531b6" height="30" width="40" style="margin-right: 10px;" /></a>
 </p>
+
 
 
 
