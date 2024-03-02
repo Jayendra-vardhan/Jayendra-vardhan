@@ -1,35 +1,75 @@
-<h1 align="center">Hi 👋, I'm Jayendar vardhan Singh</h1>
-<h3 align="center">A passionate Software and web developer from India</h3>
+# Jayendra Vardhan Singh
 
-- 🌱 I’m currently learning **JavaScript**
+(Adaptable, Collaborative learner, Logically oriented)
 
-- 💬 Ask me about **C/C++ and JavaScript**
+- **Phone:** +91-7088345282
+- **Email:** jayendravardhan@gmail.com
+- **LinkedIn:** [Jayendra Vardhan Singh](https://www.linkedin.com/in/jayendra-vardhan-singh-8a3b531b6)
+- **GitHub:** [jayendra-587](https://github.com/jayendra-587)
 
-- 📫 How to reach me **jayendravardhan@gmail.com**
+![Jayendra Vardhan Singh](insert_image_url_here)
 
-<p align="left">
-<h3 >Connect with me:</h3>
-<a href="https://twitter.com/vardhanjayendra" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="vardhanjayendra" height="30" width="40" /></a>
-<a href="https://linkedin.com/in/jayendra-vardhan-singh-8a3b531b6" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="jayendra-vardhan-singh-8a3b531b6" height="30" width="40" /></a>
-</p>
+## Career Objective
 
-<p align="left" style=line-height:10px;''> 
-<h3>Languages and Tools:</h3>
-<a href="https://aws.amazon.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" alt="aws" width="40" height="40"/> </a> 
-<a href="https://getbootstrap.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" alt="bootstrap" width="40" height="40"/> </a> 
-<a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/> </a> 
-<a href="https://www.w3schools.com/cpp/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40"/> </a> 
-<a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> 
-<a href="https://cloud.google.com" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/google_cloud/google_cloud-icon.svg" alt="gcp" width="40" height="40"/> </a> 
-<a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> 
-<a href="https://www.java.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/> </a> 
-<a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> 
-<a href="https://www.linux.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/> </a> 
-<a href="https://www.mongodb.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="40" height="40"/> </a> 
-<a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> 
-<a href="https://www.php.net" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-original.svg" alt="php" width="40" height="40"/> </a> 
-<a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a>
-</p>
+To secure a responsible and challenging position in a learning organization in the field of computer science. To contribute to the growth of the organization while enhancing my professional skills and exploring new avenues.
 
-<p>
-  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=jayendra-vardhan&show_icons=true&locale=en&layout=compact" alt="jayendra-vardhan" /></p>
+## Academic Details
+
+| Year(s)     | Qualification – Degree | Name of institution/school | Percentage/CGPA |
+|-------------|-------------------------|-----------------------------|-----------------|
+| 2020-present| B. Tech in Computer Science | UPES, Dehradun | 7.74 CGPA |
+| 2019-2020   | XII                     | Delhi Public School, Etawah | 86.2% |
+| 2017-2018   | X                       | Delhi Public School, Etawah | 74.6% |
+
+## Subject Electives
+
+- Major Degree: Cloud Computing and Virtualization Technology
+- Minor Degree: DevOps
+
+## Technical Proficiencies and Soft Skills
+
+- **Programming Languages:** C, C++, JavaScript, SQL, MongoDB
+- **Cloud Platforms:** Amazon Web Services (AWS)
+- **Tools:** Git, Postman, Visual Studio Code, Virtual Box
+- **Soft Skills:** Collaborative, Critical Thinking, Leadership and Teamwork, Presentation Skills, Public Relations
+
+## Summer Internship/Work Experience
+
+### IBM (June 2023 – September 2023)
+
+- **Project Topic:** Design and implement a Cloud-Based System for High-Performance Computing and Scientific Simulations
+- **Role:** Configured CloudTrail and CloudWatch services of AWS, monitored performance using S3 and EC2, generated alarms, and prepared a comparative analysis report.
+
+### Trainee at PwC Acceleration Centres (April 2023 – July 2023)
+
+- Completed the PwC Acceleration Centres' Analytics Insights Launchpad Program, focusing on programming and Relational Database Management Systems (RDBMS).
+
+## Projects
+
+### Uni-Forum: Fostering Collaborative Discussions and Knowledge Exchange
+
+- **Mentor:** Dr. Deepika Koundal, Associate Professor, UPES, Dehradun
+- **Description:** Developed a web application using Node.js for backend, MongoDB for database, HTML, CSS, and React/JavaScript for frontend.
+
+### Theoretical Practice and Implementation of a Basic Compiler
+
+- **Mentor:** Dr. Saurabh Shanu, Associate Professor, UPES, Dehradun
+- **Description:** Implemented the frontend model of a compiler using lex and yacc.
+
+### Auto_Dub: Audio Transcription and Translation Application
+
+- **Mentor:** Dr. Achal Agrawal, Associate Professor, UPES, Dehradun
+- **Description:** Developed an application to convert audio content into different languages using APIs, HTML, and CSS.
+
+## Accomplishments and Recognition
+
+- Participated in the IBM National Hackathon Code Wars’23.
+- Completed the "Architecture with Google Cloud Engine" course offered by Google Cloud.
+- Actively participated in the Google Cloud Ready Facilitator Program'22 - Google Cloud Skills Boost.
+- Participated in the CSI National Hackathon organized by UPES CSI (Computer Society of India).
+- Worked as a core member of the Technical Committee at UPES Hypervision.
+
+## Position of Responsibility
+
+- Serving as the Student Placement Representative, Career Service Department, UPES
+  - Duration: November 2022 Onwards
