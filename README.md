@@ -38,13 +38,13 @@
 
 ## Projects
   ### Uni-Forum: Fostering Collaborative Discussions and Knowledge Exchange
-    - **Description:** Developed a web application using Node.js for backend, MongoDB for database, HTML, CSS, and React/JavaScript for frontend.
+  - **Description:** Developed a web application using Node.js for backend, MongoDB for database, HTML, CSS, and React/JavaScript for frontend.
   
   ### Theoretical Practice and Implementation of a Basic Compiler
-    - **Description:** Implemented the frontend model of a compiler using lex and yacc.
+  - **Description:** Implemented the frontend model of a compiler using lex and yacc.
   
   ### Auto_Dub: Audio Transcription and Translation Application
-    - **Description:** Developed an application to convert audio content into different languages using APIs, HTML, and CSS.
+  - **Description:** Developed an application to convert audio content into different languages using APIs, HTML, and CSS.
 
 <div style="width: 50%; margin: 0 auto;">
     <p align="center">
