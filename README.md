@@ -46,13 +46,15 @@
   ### Auto_Dub: Audio Transcription and Translation Application
     - **Description:** Developed an application to convert audio content into different languages using APIs, HTML, and CSS.
 
-<p align="center">
-  <img  src="https://github-readme-stats.vercel.app/api/top-langs?username=jayendra-vardhan&show_icons=true&locale=en&layout=compact" alt="jayendra-vardhan" />
-</p>
+<div style="width: 50%; margin: 0 auto;">
+    <p align="center">
+        <img src="https://github-readme-stats.vercel.app/api/top-langs?username=jayendra-vardhan&show_icons=true&locale=en&layout=compact" alt="jayendra-vardhan" />
+    </p>
+</div>
 
 
-<p style="line-height: 10px;">
+<div style="line-height: 10px;">
     <h3 style="display: inline;">Connect with me:</h3>
-    <a href="https://twitter.com/vardhanjayendra" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="vardhanjayendra" height="30" width="40" style="margin-right: 10px;" /></a>
-    <a href="https://linkedin.com/in/jayendra-vardhan-singh-8a3b531b6" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="jayendra-vardhan-singh-8a3b531b6" height="30" width="40" style="margin-right: 10px;" /></a>
-</p>
+    <a href="https://twitter.com/vardhanjayendra" target="blank" style="float: left; margin-right: 10px;"><img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="vardhanjayendra" height="30" width="40" /></a>
+    <a href="https://linkedin.com/in/jayendra-vardhan-singh-8a3b531b6" target="blank" style="float: right; margin-right: 10px;"><img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="jayendra-vardhan-singh-8a3b531b6" height="30" width="40" /></a>
+</div>
