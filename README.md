@@ -3,7 +3,7 @@
 
 ->🌱 I’m currently learning **JavaScript**
 
--> 💬 Ask me about **C/C++ and JavaScript**
+-> 💬 Ask me about **C/C++, Java and DevOps**
 
 -> 📫 Email to reach me **jayendravardhan@gmail.com**
 
